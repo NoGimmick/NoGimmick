@@ -1,0 +1,18 @@
+user:
+  skill_level: intermediate
+
+environment:
+  os: Arch Linux
+  shell: zsh
+  editor: VS Code
+  wm: Hyprland
+
+behavior:
+  concise: true
+  no_followups: true
+  no_beginner_explanations: true
+  operational_mode: true
+
+project:
+  type: ai_dev_assistant
+  language: python
