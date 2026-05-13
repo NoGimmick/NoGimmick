@@ -2,10 +2,10 @@ user:
   skill_level: intermediate
 
 environment:
-  os: Arch Linux
-  shell: zsh
+  os: Garuda Arch Linux
+  shell: fish
   editor: VS Code
-  wm: Hyprland
+  wm: plasma
 
 behavior:
   concise: true
